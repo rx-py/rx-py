@@ -1,8 +1,7 @@
 <p align="center"> 
     <a href="https://github.com/rx-py"><img alt="rx-py" src="https://komarev.com/ghpvc/?username=rx-py"></a>
     <a href="https://github.com/rx-py?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/rx-py"></a>
-    <a href="https://twitter.com/rx__py"> alt="rx-py" <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frx__py&style=social&logo=twitter&logoColor=purple&label=twitter&labelColor=rgb(128%2C0%2C64)&color=%23800040
-"/></a>
+    <a href="https://twitter.com/rx__py"> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frx__py&style=social&logo=twitter&logoColor=purple&label=twitter&labelColor=rgb(128%2C0%2C64)&color=%23800040"/></a>
 </p> 
 
 ## rx.py
