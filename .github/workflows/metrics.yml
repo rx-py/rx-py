@@ -22,7 +22,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
-          config_presets: @tokyo-night
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
