@@ -23,8 +23,16 @@
 -- journey to being the most proficient wiz
 
 
-
-
 ** My GitHub Data** 
 <!-- ![Metrics](https://metrics.lecoq.io/rx-py) -->
 ![Metrics](https://github.com/rx-py/rx-py/blob/main/github-metrics.svg)
+
+
+### Development Environment
+
+- Favorite Languages: python
+- Editor: Neovim
+- Shell: zsh
+- Terminal: kitty
+- OS: ArchLinux(sway/hyprland)
+- PC: macbook air
