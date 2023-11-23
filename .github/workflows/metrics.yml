@@ -15,6 +15,9 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          config_output: insights
+          config_order: base.header, languages, stars
 
           # Options
           user: rx-py
@@ -27,6 +30,7 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
+          plugin_stars: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
