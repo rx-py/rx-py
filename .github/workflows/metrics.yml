@@ -70,7 +70,7 @@ jobs:
           plugin_achievements_threshold: B           # Display achievements with rank B or higher
           plugin_achievements_secrets: yes           # Display unlocked secrets achievements
           plugin_achievements_limit: 0               # Display all unlocked achievement matching threshold and secrets params
-          plugin_wakatime: no
+          plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
           plugin_wakatime_days: 7                                     # Display last week stats
           plugin_wakatime_sections: time, projects, projects-graphs   # Display time and projects sections, along with projects graphs
